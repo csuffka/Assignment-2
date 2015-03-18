@@ -1,4 +1,4 @@
-#Assignment 2 Problem 2
+#Assignment 2 Problem 1
 #This code calculates the speed a-as seen from Earth, and b-perceived by a passenger on the ship, from user-inputted distances and speeds.
 
 tpass=float(0)  #time percieved by a passenger
